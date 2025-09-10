@@ -1,69 +1,61 @@
-<!-- Banner / Cover -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Hindy%20Albert%20👩‍💻&fontSize=40&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee0979,100:ff6a00&height=250&section=header&text=Hi!%20I'm%20Hindy%20Albert%20👩‍💻&fontSize=40&fontAlignY=40&fontColor=fff" />
 </p>
 
-<!-- Title -->
-<h2 align="center">💻 Software Engineering Practical Engineer | Full Stack Developer</h2>
-
+<!-- Typing SVG -->
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Practical+Engineer;Passionate+Problem+Solver;Always+Learning+New+Things+✨" />
+</p>
+
+<!-- Profile badges -->
+<p align="center">
+  <a href="mailto:hindy.albert@example.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Phone-055--6733667-success?style=for-the-badge&logo=whatsapp" />
+  <img src="https://komarev.com/ghpvc/?username=hinaldev&style=for-the-badge&color=ff6a00" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- ✨ Practical Engineer in **Software Engineering**
-- 🔥 Strong foundation in **programming & problem-solving**
-- 🏆 Passion for **excellence, persistence, and responsibility**
-- 🤝 Experienced in **teamwork & independent work**
+👋 Hi, I’m Hindy – Practical Engineer in **Software Engineering**  
+🔥 Strong foundation in **programming & problem-solving**  
+🏆 Passion for **excellence, persistence, and responsibility**  
+🤝 Experienced in **teamwork & independent work**  
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 🔹 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css,react,angular,electron,nodejs,django,mongodb,sqlserver,git,vscode,pycharm,arduino&perline=9" />
+</p>
 
 ---
 
 ## 🎓 Education
 - 📘 **2024–2025** – Practical Software Engineering, *She Codes + מה"ט* (Graduated with honors)  
-- 📘 **2018–2023** – Technological Diploma, *Accounting & Economics*
+- 📘 **2018–2023** – Technological Diploma, *Accounting & Economics*  
 
 ---
 
 ## 📂 Featured Projects
-- 💼 **Business Accounting Management System** – Node.js + React + MongoDB  
-- 🎮 **Games with Animations & localStorage** – HTML5, CSS3, JavaScript  
-- 🛠️ **JavaScript Linter with Electron + Advanced Testing**  
-- 🌐 **Course Management Website** – Python Django  
-- 📦 **Package Installer Simulation** – C#  
+<p align="center">
+  <a href="https://github.com/hinaldev/business-accounting-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinaldev&repo=business-accounting-system&theme=radical" />
+  </a>
+  <a href="https://github.com/hinaldev/js-games">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinaldev&repo=js-games&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hinaldev/js-linter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinaldev&repo=js-linter&theme=radical" />
+  </a>
+  <a href="https://github.com/hinaldev/course-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hinaldev&repo=course-management&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -73,18 +65,32 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hinaldev&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUser&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hinaldev&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinaldev&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hinaldev&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  ✨ Always open to learning new things and collaborating on exciting projects! ✨
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/> Thanks for visiting! ✨  
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=120&section=footer"/>
 </p>
