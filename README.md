@@ -1,68 +1,73 @@
-# 👋 Hi there, I'm Hindy Albert  
-
-💻 **Software Engineering Practical Engineer | Full Stack Developer**  
-📧 Email: your@email.com | 📱 055-6733667  
+<!-- באנר יפה -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Hi%20there!%20I'm%20Hindy%20Albert%20👩‍💻&fontSize=35&fontColor=fff&animation=twinkling" />
+</p>
 
 ---
 
 ## 🌟 About Me  
-- 🎓 Practical Engineer in Software Engineering  
-- 💡 Strong programming foundation with creative problem-solving  
-- 🚀 Passion for excellence, persistence, and responsibility  
-- 🤝 Experienced in teamwork & independent work  
+✨ Practical Engineer in Software Engineering  
+✨ Strong programming foundation with creative problem-solving  
+✨ Passion for excellence, persistence, and responsibility  
+✨ Experienced in teamwork & independent work  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
-
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+<p align="center">
+  
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,java,cs,js,ts&theme=dark" /><br/>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,electron&theme=dark" /><br/>
+<!-- Backend & DB -->
+<img src="https://skillicons.dev/icons?i=nodejs,django,mongodb,mysql&theme=dark" /><br/>
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,vscode,pycharm,arduino&theme=dark" />
+</p>
 
 ---
 
 ## 🎓 Education  
-- 📘 **2024–2025:** Practical Software Engineering, She Codes + מה"ט (Graduated with honors)  
-- 📘 **2018–2023:** Technological Diploma, Accounting & Economics  
+📘 **2024–2025** – Practical Software Engineering, *She Codes + מה"ט* (Graduated with honors)  
+📘 **2018–2023** – Technological Diploma, *Accounting & Economics*  
 
 ---
 
 ## 📂 Featured Projects  
 
-- 💼 **Business Accounting Management System** (Node.js + React + MongoDB)  
-- 🎮 **Games with Animations & localStorage** (HTML5, CSS3, JavaScript)  
-- 🛠️ **JavaScript Linter with Electron + Advanced Testing**  
-- 🌐 **Course Management Website** (Python Django)  
-- 📦 **Package Installer Simulation** (C#)  
+🔹 **Business Accounting Management System** – *Node.js + React + MongoDB*  
+🔹 **Games with Animations & localStorage** – *HTML5, CSS3, JavaScript*  
+🔹 **JavaScript Linter with Electron + Advanced Testing**  
+🔹 **Course Management Website** – *Python Django*  
+🔹 **Package Installer Simulation** – *C#*  
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Hindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-✨ *Always open to learning new things and collaborating on exciting projects!* ✨  
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- באנר תחתון -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
+</p>
